@@ -1,0 +1,5 @@
+# PRE-LAUNCH: change to "Allow: /" at go-live
+User-agent: *
+Disallow: /
+
+Sitemap: https://fencepostwatcher.com/sitemap.xml

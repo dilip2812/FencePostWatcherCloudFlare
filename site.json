@@ -1,0 +1,175 @@
+{
+  "brand": "FencePostWatcher",
+  "brand_prefix": "FencePost",
+  "site_url": "https://fencepostwatcher.com",
+  "hrefs": {
+    "report": "/#report"
+  },
+  "words": {
+    "business": "company",
+    "businesses": "fence companies",
+    "Business": "Company",
+    "payoff": "One sold fence job",
+    "email_placeholder": "you@yourfence.com",
+    "site_placeholder": "yourfencecompany.com"
+  },
+  "pricing": {
+    "plan_name": "Contractor",
+    "custom_items": [
+      "Website fixes &amp; design changes",
+      "SEO, GEO &amp; AI-search implementation",
+      "Project galleries &amp; case studies",
+      "Google Business Profile &amp; review setup",
+      "By 7 Signals or our vetted partners"
+    ]
+  },
+  "mark": {
+    "src": "/assets/img/mark.svg",
+    "width": 34,
+    "height": 34
+  },
+  "theme_color": {
+    "light": "#0e1512",
+    "dark": "#0e1512"
+  },
+  "icons": [
+    {
+      "href": "/assets/img/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "stylesheet": "/assets/css/site.css",
+  "head": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&display=swap\" rel=\"stylesheet\">",
+  "scripts": [
+    {
+      "src": "/assets/js/site.js",
+      "defer": true
+    }
+  ],
+  "tracking": {
+    "uxwizz": false
+  },
+  "core_theme": {
+    "bg": "var(--paper)",
+    "band": "var(--paper-2)",
+    "card": "var(--card)",
+    "line": "var(--line)",
+    "text": "var(--text)",
+    "muted": "var(--muted)",
+    "ink": "var(--ink)",
+    "accent": "var(--copper)",
+    "good": "var(--signal-dk)",
+    "dark": "var(--slate)",
+    "on_dark": "#e6ece8",
+    "dark_muted": "#a9b8b0",
+    "serif": "var(--serif)",
+    "sans": "var(--sans)",
+    "mono": "var(--mono)",
+    "radius": "var(--radius)"
+  },
+  "footer": {
+    "blurb": "Competitive intelligence for fence contractors. See where you rank, why, and what to fix next.",
+    "columns": [
+      [
+        {
+          "title": "Explore",
+          "links": [
+            {
+              "label": "Why Us",
+              "href": "/#why"
+            },
+            {
+              "label": "The Seven Signals",
+              "href": "/#signals"
+            },
+            {
+              "label": "Solutions",
+              "href": "/#solutions"
+            },
+            {
+              "key": "usecases",
+              "label": "Use cases",
+              "href": "/use-cases/"
+            },
+            {
+              "label": "Pricing",
+              "href": "/#pricing"
+            },
+            {
+              "label": "FAQ",
+              "href": "/#faq"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Resources",
+          "links": [
+            {
+              "key": "report",
+              "label": "2026 Fence Market Data",
+              "href": "/industry-report/"
+            },
+            {
+              "label": "Free demo",
+              "href": "https://signalstogrowth.com/"
+            },
+            {
+              "label": "Contact",
+              "href": "/contact/"
+            }
+          ]
+        },
+        {
+          "title": "The Watcher family",
+          "family": true
+        }
+      ],
+      [
+        {
+          "title": "Office",
+          "links": [
+            {
+              "text": "Mt. Pleasant, SC 29466"
+            },
+            {
+              "label": "+1 (843) 212-6898",
+              "href": "tel:+18432126898"
+            },
+            {
+              "label": "hello@7signals.io",
+              "href": "mailto:hello@7signals.io"
+            },
+            {
+              "label": "LinkedIn",
+              "href": "https://www.linkedin.com/company/7signals"
+            }
+          ]
+        }
+      ]
+    ],
+    "legal": [
+      {
+        "label": "Terms &amp; Conditions",
+        "href": "/terms/"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy/"
+      }
+    ]
+  },
+  "organization": {
+    "name": "FencePostWatcher by 7 Signals",
+    "logo": "/assets/img/mark.svg",
+    "address": {
+      "addressLocality": "Mt. Pleasant",
+      "addressRegion": "SC",
+      "postalCode": "29466",
+      "addressCountry": "US"
+    },
+    "email": "hello@7signals.io",
+    "telephone": "+1-843-212-6898"
+  }
+}

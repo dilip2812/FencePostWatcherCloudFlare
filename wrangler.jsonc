@@ -1,0 +1,16 @@
+{
+  // Built by watcher-site-core: Workers Builds runs `python3 tools/build.py`, then `npx wrangler deploy`
+  "name": "fencepostwatcher",
+  "compatibility_date": "2026-10-12",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "fencepostwatcher.com", "custom_domain": true },
+    { "pattern": "www.fencepostwatcher.com", "custom_domain": true }
+  ],
+  // Pull-request previews: Workers Builds runs `npx wrangler preview` on every PR.
+  // Empty is fine; assets, compatibility settings and routes stay at the top level.
+  "previews": {}
+}
